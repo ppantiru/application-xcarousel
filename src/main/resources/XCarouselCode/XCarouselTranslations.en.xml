@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ * See the NOTICE file distributed with this work for additional
+ * information regarding copyright ownership.
+ *
+ * This is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation; either version 2.1 of
+ * the License, or (at your option) any later version.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this software; if not, write to the Free
+ * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+ * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+-->
+
+<xwikidoc>
+  <web>XCarouselCode</web>
+  <name>XCarouselTranslations</name>
+  <language>en</language>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>1</translation>
+  <parent>XCarouselClass</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1457534438000</creationDate>
+  <date>1457617507000</date>
+  <contentUpdateDate>1457617446000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.1</syntaxId>
+  <hidden>true</hidden>
+  <content># Class fields
+XCarouselCode.XCarouselClass_autoSliding=Auto-Sliding
+XCarouselCode.XCarouselClass_interval=Interval
+XCarouselCode.XCarouselClass_carouselWidth=Width 
+XCarouselCode.XCarouselClass_carouselHeight=Height
+XCarouselCode.XCarouselClass_backgroundColor=Background Color
+xcarousel.slide_title=Caption title
+xcarousel.slide_titleSize=Title size
+xcarousel.slide_titleColor=Title color
+xcarousel.slide_text=Caption text
+xcarousel.slide_textSize=Text size
+xcarousel.slide_textColor=Text Color
+xcarousel.slide_link=Caption title link
+xcarousel.slide_delete=Delete Slide
+xcarousel.slide_addSlide=Add new slide
+
+# Class helper text
+xcarousel.helper_autoSliding=Will slide automatically at given interval.
+xcarousel.helper_interval=Time between automatic slides (if AUTO-SLIDING is on), in milliseconds (defaul is 5000).
+xcarousel.helper_width=Width in pixels (ex: 1000), if left blank it will take the full width of it's container.
+xcarousel.helper_height=Height in pixels (ex: 200), if left blank it will take the height of the image.
+xcarousel.helper_bgcolor=Click the input for color-picker. You can also add the color yourself if you know the CSS id for it.
+
+# Live table generic keys
+xcarousel.livetable.doc.title=Page title
+xcarousel.livetable.doc.name=Page name
+xcarousel.livetable.doc.space=Space
+xcarousel.livetable.doc.fullname=Page full name
+xcarousel.livetable.doc.author=Last Author
+xcarousel.livetable.doc.creator=Creator
+xcarousel.livetable.doc.date=Update date
+xcarousel.livetable.doc.creationDate=Creation date
+xcarousel.livetable._avatar=Avatar
+xcarousel.livetable._images=Images
+xcarousel.livetable._attachments=Attachments
+xcarousel.livetable._actions=Actions
+xcarousel.livetable._actions.edit=Edit
+xcarousel.livetable._actions.delete=Delete
+xcarousel.livetable.emptyvalue=-
+
+# Live table specific keys
+xcarousel.livetable.autoSliding=Auto-Sliding
+xcarousel.livetable.interval=Interval
+xcarousel.livetable.carouselWidth=Width
+xcarousel.livetable.carouselHeight=Height
+xcarousel.livetable.backgroundColor=Background Color</content>
+</xwikidoc>
