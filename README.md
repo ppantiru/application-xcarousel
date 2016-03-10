@@ -15,7 +15,7 @@ For the general carousel:
 
 For each slide you can set:
 
- * A different image (doh)
+ * An image
  * A caption title
  * The size for the caption title
  * The color for the caption title (with a color picker or by hand if you know the css id for the color)
