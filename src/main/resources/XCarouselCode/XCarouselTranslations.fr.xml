@@ -43,33 +43,34 @@
   <syntaxId>xwiki/2.1</syntaxId>
   <hidden>true</hidden>
   <content># Class fields
-XCarouselCode.XCarouselClass_autoSliding=Auto-defilement
+XCarouselCode.XCarouselClass_autoSliding=Auto-défilement
 XCarouselCode.XCarouselClass_interval=Interval
-XCarouselCode.XCarouselClass_carouselWidth=Largeur de la carousel
-XCarouselCode.XCarouselClass_carouselHeight=Hauteur de la carousel
+XCarouselCode.XCarouselClass_carouselWidth=Largeur du carousel
+XCarouselCode.XCarouselClass_carouselHeight=Hauteur du carousel
 XCarouselCode.XCarouselClass_backgroundColor=Couleur de fond
-xcarousel.slide_title=Caption title
-xcarousel.slide_titleSize=Title size
-xcarousel.slide_titleColor=Title color
-xcarousel.slide_text=Caption text
-xcarousel.slide_textSize=Text size
-xcarousel.slide_textColor=Text Color
-xcarousel.slide_link=Caption title link
+xcarousel.slide_title=Titre de la légende 
+xcarousel.slide_titleSize=Taille du titre 
+xcarousel.slide_titleColor=Couleur du titre 
+xcarousel.slide_text=Texte de la légende 
+xcarousel.slide_textSize=Taille du texte
+xcarousel.slide_textColor=Couleur du texte
+xcarousel.slide_link=Lien du titre de la légende
 xcarousel.slide_delete=Supprimer
-xcarousel.slide_addSlide=Add new slide
+xcarousel.slide_addSlide=Ajouter une nouvelle diapositive
 
 # Class helper text
-xcarousel.helper_autoSliding=Will slide automatically at given interval.
-xcarousel.helper_interval=Time between automatic slides (if AUTO-SLIDING is on), in milliseconds (defaul is 5000).
-xcarousel.helper_width=Width in pixels (ex: 1000), if left blank it will take the full width of it's container.
-xcarousel.helper_height=Height in pixels (ex: 200), if left blank it will take the height of the image.
-xcarousel.helper_bgcolor=Click the input for color-picker. You can also add the color yourself if you know the CSS id for it.
+xcarousel.helper_autoSliding=Glisseront automatiquement à un intervalle donné.
+xcarousel.helper_interval=Temps entre les diapositives automatique (AUTO-GLISSEMENT est activé), en millisecondes (par défaut 5000 ms).
+xcarousel.helper_width=Largeur du carousel en pixels (ex: 1000 px), si vous le laissez vide, il prendra toute la largeur du conteneur.
+xcarousel.helper_height=Hauteur du carousel en pixels (ex: 200 px), si on le laisse vide, il prendra la hauteur de l'image.
+xcarousel.helper_bgcolor=
+Cliquez sur le champs de saisie pour sélectionner la couleur. Vous pouvez également saisire votre code couleur dans le champs de saisie.
 
 # Live table generic keys
 xcarousel.livetable.doc.title=Titre de la page
 xcarousel.livetable.doc.name=Nom de la page
 xcarousel.livetable.doc.space=Espace
-xcarousel.livetable.doc.fullname=Page nom complet
+xcarousel.livetable.doc.fullname=Nom complet de la page
 xcarousel.livetable.doc.author=Dernière auteur
 xcarousel.livetable.doc.creator=Créateur
 xcarousel.livetable.doc.date=Date de mise à jour
@@ -77,14 +78,14 @@ xcarousel.livetable.doc.creationDate=Date de création
 xcarousel.livetable._avatar=Avatar
 xcarousel.livetable._images=Images
 xcarousel.livetable._attachments=Pièces jointes
-xcarousel.livetable._actions=Actes
+xcarousel.livetable._actions=Actions
 xcarousel.livetable._actions.edit=Modifier
 xcarousel.livetable._actions.delete=Effacer
 xcarousel.livetable.emptyvalue=-
 
 # Live table specific keys
-xcarousel.livetable.autoSliding=Auto-defilement
+xcarousel.livetable.autoSliding=Auto-défilement
 xcarousel.livetable.interval=Interval
 xcarousel.livetable.carouselWidth=Largeur
-xcarousel.livetable.carouselHeight=La taille</content>
+xcarousel.livetable.carouselHeight=Hauteur</content>
 </xwikidoc>

@@ -60,7 +60,7 @@ xcarousel.slide_addSlide=Add new slide
 
 # Class helper text
 xcarousel.helper_autoSliding=Will slide automatically at given interval.
-xcarousel.helper_interval=Time between automatic slides (if AUTO-SLIDING is on), in milliseconds (defaul is 5000).
+xcarousel.helper_interval=Time between automatic slides (if AUTO-SLIDING is on), in milliseconds (default is 5000).
 xcarousel.helper_width=Width in pixels (ex: 1000), if left blank it will take the full width of it's container.
 xcarousel.helper_height=Height in pixels (ex: 200), if left blank it will take the height of the image.
 xcarousel.helper_bgcolor=Click the input for color-picker. You can also add the color yourself if you know the CSS id for it.
