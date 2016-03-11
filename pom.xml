@@ -34,10 +34,13 @@
   <name>XCarousel</name>
   <version>1.0-SNAPSHOT</version>
   <packaging>xar</packaging>
-  <description>Application that allows users to easily create carousels, while still offering a variety of settings, like auto-sliding(on/off), interval, width, height, bg color, caption text size/color/link.</description>
+  <description>Application that allows users to easily create carousels, while still offering a variety of settings, like auto-sliding(on/off), interval, width, height and background color for the carousel, and for each slide you can set the image and caption text with size, color, link.</description>
   <properties>
-    <platform.version>${project.parent.version}</platform.version>
-    <rendering.version>${platform.version}</rendering.version>    
+    <xwiki.version>6.4</xwiki.version>
+    <!-- Name to display by the Extension Manager -->
+    <xwiki.extension.name>XCarousel</xwiki.extension.name>
+    <!-- Sets value for the categories column on e.x.o -->
+    <xwiki.extension.category>application</xwiki.extension.category>
   </properties>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/application-xcarousel.git</connection>

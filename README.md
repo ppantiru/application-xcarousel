@@ -1,28 +1,23 @@
-application-xcarousel
-=================
+XCcarousel
+==========
 
-Application that allows to create carousels.
+* Description: Application that allows users to easily create carousels, while still offering a variety of settings, like auto-sliding(on/off), interval, width, height and background color for the carousel, and for each slide you can set the image and caption text with size, color, link.
 
-For each carousel you create you have a variety of settings:
+* Project Lead: [Paul Panțiru](http://www.xwiki.org/xwiki/bin/view/XWiki/ppantiru)
 
-For the general carousel:
+* [Documentation & download](http://extensions.xwiki.org/xwiki/bin/view/Extension/XCarousel)
 
- * Auto-sliding on/off
- * The interval for automatic sliding
- * The width of the carousel
- * The height of the carousel
- * The background color (with a color picker or by hand if you know the css id for the color)
+* [Issue Tracker](http://jira.xwiki.org/browse/XCAROUSEL)
 
-For each slide you can set:
+* Comunication: [Mailing List](http://dev.xwiki.org/xwiki/bin/view/Community/MailingLists), [IRC](http://dev.xwiki.org/xwiki/bin/view/Community/IRC)
 
- * An image
- * A caption title
- * The size for the caption title
- * The color for the caption title (with a color picker or by hand if you know the css id for the color)
- * Some caption text
- * The size for the caption text
- * The color for the caption text (with a color picker or by hand if you know the css id for the color)
- * And a link for the caption title
+* Minimal XWiki version supported: 6.2.2
+
+* License: LGPL 2.1
+
+* Sonar Dashboard: N/A 
+
+* Continuous Integration Status: N/A 
 
 Usage
 =====

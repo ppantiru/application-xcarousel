@@ -189,7 +189,7 @@
     <property>
       <parameters>label=XCarousel
 target=XCarousel.WebHome
-icon=icon:columns</parameters>
+icon=icon:application</parameters>
     </property>
     <property>
       <scope>wiki</scope>
